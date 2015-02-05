@@ -1,8 +1,8 @@
 import time
 import paypalrestsdk
 
-PP_CLIENT_ID = 'AZPMGLcAsrVCCY7V7j9PIbCB8tANn-gxVadLrprGu9kjmdiYe9yE5aHIztKTPPyHjwybZ4oKA1qeHYYB'
-PP_CLIENT_SECRET = 'EPa3q32xiRy_VBy40GqrtpcLo8uJy6d4TpN3TJ9sxzsAECcmOJ6WOydCkM71FyoaNMIYnWSPVWkwdCrl'
+PP_CLIENT_ID = '<client_id>'
+PP_CLIENT_SECRET = '<client_secret>'
 
 PP_URL_RETURN = 'http://localhost:8080/pay'
 PP_URL_CANCEL = 'http://localhost:8080/'
